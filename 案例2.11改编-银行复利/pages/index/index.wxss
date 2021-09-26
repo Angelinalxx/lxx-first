@@ -1,0 +1,20 @@
+/**index.wxss**/
+input{
+  border-bottom: 1px solid blue;
+  margin: 20px 0;
+}
+button{
+  margin-top: 20px;
+}
+.box1{
+  margin: 20rpx;
+  padding: 20rpx;
+  border:3px dashed paleturquoise;
+  background-color: lightgreen;
+}
+.box2{
+  margin: 20rpx;
+  padding: 20rpx;
+  border:3px dashed paleturquoise;
+  background-color: lightgreen;
+}

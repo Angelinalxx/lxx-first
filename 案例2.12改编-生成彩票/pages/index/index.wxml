@@ -1,0 +1,25 @@
+<!--index.wxml-->
+<view class="box">
+	<view class="title">彩票号码生成器</view>
+	<view class="context">
+		<view class="k1">{{a}}</view>
+		<view class="k2">{{b}}</view>
+		<view class="k3">{{c}}</view>
+		<view class="k4">{{d}}</view>
+		<view class="k5">{{e}}</view>
+		<view class="k6">{{f}}</view>
+		<view class="k7">{{g}}</view>
+	</view>
+	<view class="front">
+    不要去追一匹马，用追马的时间种草，待到春暖花开时，会有一群骏马任你挑选；不要去刻意讨好一个人，用讨好别人的时间，提升自己的能力，待到时机成熟时，会有一大批的朋友与你同行。所以，丰富自己比取悦他人更有力量。
+	</view>
+	<button bindtap="mysubmit">生成号码</button>
+</view>
+<view class='box1'>
+    <view>班级:电科19-2</view>
+    <view>学号:201923010214</view>
+    <view>姓名:李晓旭</view>
+</view>
+<view class='box2'>
+  <view>众里寻他千百度，蓦然回首，那人却在灯火阑珊处</view>
+</view>

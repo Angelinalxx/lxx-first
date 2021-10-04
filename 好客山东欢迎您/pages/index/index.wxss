@@ -1,0 +1,13 @@
+/*index.wxss*/
+.title{
+  color:black;
+  font-size:x-large;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.introArticle{
+  text-indent: 30px;
+  line-height: 25px;
+  color:black;
+  margin-top: 10px;
+}

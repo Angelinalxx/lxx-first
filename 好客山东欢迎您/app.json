@@ -1,0 +1,53 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/shouye/shouye",
+    "pages/jinan/jinan",
+    "pages/taian/taian",
+    "pages/qufu/qufu",
+    "pages/liaocheng/liaocheng"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "好客山东欢迎您",
+    "navigationBarTextStyle": "black",
+    "navigationBarTextSize": "20px"
+  },
+  "tabBar": {
+    "color": "#000",
+    "selectedColor": "#00f",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "/images/home-off.png",
+        "selectedIconPath": "/images/home-on.png"
+      },
+      {
+        "pagePath": "pages/jinan/jinan",
+        "text": "济南",
+        "iconPath": "/images/jinan-off.png",
+        "selectedIconPath": "/images/jinan-on.png"
+      },
+      {
+        "pagePath": "pages/taian/taian",
+        "text": "泰安",
+        "iconPath": "/images/taian-off.png",
+        "selectedIconPath": "/images/taian-on.png"
+      },
+      {
+        "pagePath": "pages/qufu/qufu",
+        "text": "曲阜",
+        "iconPath": "/images/qufu-off.png",
+        "selectedIconPath": "/images/qufu-on.png"
+      },
+      {
+        "pagePath": "pages/liaocheng/liaocheng",
+        "text": "聊城",
+        "iconPath": "/images/liaocheng-off.png",
+        "selectedIconPath": "/images/liaocheng-on.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,12 @@
+/* pages/taian/taian.wxss */
+.img{
+  width: 100%;
+ }
+ .smalltitle{
+   color: lightskyblue;
+ }
+ .introArticle{
+  text-indent: 30px;
+  line-height: 25px;
+  color:black;
+}
